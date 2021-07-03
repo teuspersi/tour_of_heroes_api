@@ -29,7 +29,7 @@ This repository is part of the [Curso de Ruby on Rails 6 como API](https://www.y
 
 ```bash
 # clone the project
-git clone https://github.com/peimelo/curso_tour_of_heroes_api.git
+git clone https://github.com/teuspersi/curso_tour_of_heroes_api.git
 
 # enter the cloned directory
 cd curso_tour_of_heroes_api
